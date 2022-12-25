@@ -1,0 +1,26 @@
+# ninja log v5
+1	85	1671964957098252244	build.ninja	bf6b6e45bb08f13e
+814	888	1671924333544710335	LearnOpenGL	aabbe712421c7c06
+2	111	1671964959875164694	CMakeFiles/VisualGpEngine.dir/src/Engine/Render/Data/Material.cpp.o	24298d913bb42ed4
+2	112	1671964959875637132	CMakeFiles/VisualGpEngine.dir/src/Engine/Render/Data/GpuBuffer.cpp.o	62751a814d1bc5d9
+1	114	1671964959879171258	CMakeFiles/VisualGpEngine.dir/src/Engine/Render/Data/Mesh.cpp.o	b95976f4ca0d0dca
+2	115	1671964959879370406	CMakeFiles/VisualGpEngine.dir/src/Engine/Render/Data/Texture.cpp.o	58e2d20b202048f1
+1	172	1671964959938646753	CMakeFiles/VisualGpEngine.dir/src/Engine/Render/Jobs/RenderMeshJob.cpp.o	fb4d37ad39d18efe
+0	199	1671964959966378547	CMakeFiles/VisualGpEngine.dir/src/Engine/Core/Job.cpp.o	1841e89bfd415075
+113	226	1671964959992261830	CMakeFiles/VisualGpEngine.dir/src/Engine/Core/Jobs/TransformJob.cpp.o	8667f085c8058990
+111	232	1671964959999136391	CMakeFiles/VisualGpEngine.dir/src/Engine/Render/Jobs/LightJob.cpp.o	fcf878df386e33c0
+172	253	1671964960021240294	CMakeFiles/VisualGpEngine.dir/src/Engine/Render/API/Cmd/RenderAPI.cpp.o	df51744ef537b183
+199	281	1671964960048958765	CMakeFiles/VisualGpEngine.dir/src/Engine/Render/Jobs/CameraJob.cpp.o	b30575eb9fb42066
+226	300	1671964960068062443	CMakeFiles/VisualGpEngine.dir/src/Engine/Render/API/Cmd/RenderCommandBuffer.cpp.o	6f52bb08e7356e5c
+232	308	1671964960075747020	CMakeFiles/VisualGpEngine.dir/src/Engine/Render/API/Cmd/RenderCommand.cpp.o	256af37234b705e0
+254	330	1671964960097521239	CMakeFiles/VisualGpEngine.dir/src/Engine/Render/API/Cmd/DrawMeshRenderCommand.cpp.o	5011ab3ef72fe10e
+308	380	1671964960147893613	CMakeFiles/VisualGpEngine.dir/src/Engine/Render/API/Wrapper/RenderWrapper.cpp.o	e60ce540d0a2726e
+330	400	1671964960168390248	CMakeFiles/VisualGpEngine.dir/src/Engine/Loaders/IAsset.cpp.o	b5353538aa71be3b
+300	1318	1671964961081615647	CMakeFiles/VisualGpEngine.dir/src/Engine/Loaders/Loader.cpp.o	ac6722f0a213fa59
+115	1321	1671964961085550805	CMakeFiles/VisualGpEngine.dir/src/Engine/Loaders/TextureLoader.cpp.o	bbc4b614fde23de5
+114	1322	1671964961085419267	CMakeFiles/VisualGpEngine.dir/src/Engine/Loaders/MeshLoader.cpp.o	307957527a7e3222
+1	1485	1671964961251201511	CMakeFiles/VisualGpEngine.dir/src/Engine/Core/Entity.cpp.o	f51978c29e5960f8
+1	1506	1671964961271583617	CMakeFiles/VisualGpEngine.dir/src/Engine/Core/Engine.cpp.o	ff7d38ca0067f95d
+281	1542	1671964961307310719	CMakeFiles/VisualGpEngine.dir/src/Engine/Core/Scene.cpp.o	91cbe4bea99940be
+0	1554	1671964961320059916	CMakeFiles/VisualGpEngine.dir/main.cpp.o	c242e1cd7a33b3a4
+1554	1633	1671964961403515052	VisualGpEngine	dabe3631944156bc

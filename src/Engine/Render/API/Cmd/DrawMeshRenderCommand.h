@@ -1,0 +1,14 @@
+//
+// Created by Andrii on 22.12.2022.
+//
+
+#ifndef LEARNOPENGL_DRAWMESHRENDERCOMMAND_H
+#define LEARNOPENGL_DRAWMESHRENDERCOMMAND_H
+
+
+class DrawMeshRenderCommand {
+
+};
+
+
+#endif //LEARNOPENGL_DRAWMESHRENDERCOMMAND_H
